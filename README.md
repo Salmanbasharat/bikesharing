@@ -83,4 +83,4 @@ To pitch this business for a city like Des Moines which has much less population
 
 # **LINK TO TABLEAU-PUBLIC**
 
-[link to dashboard]('https://public.tableau.com/views/Bikesharing_challenge_16123931480660/CitibikeProject?:language=en&:display_count=y&publish=yes&:origin=viz_share_link')
+[link to dashboard](https://public.tableau.com/views/Bikesharing_challenge_16123931480660/CitibikeProject?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
